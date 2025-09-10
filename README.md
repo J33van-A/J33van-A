@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j33van-a&label=Profile%20views&color=0e75b6&style=flat" alt="j33van-a" /> </p>
 
-- 🌱 I’m currently learning **Python Data Structres**
+- 🌱 I’m currently learning **Object Oriented Programing, Winodws App Development, Digital Electronics**
 
 - 👨‍💻 All of my projects are available at [https://github.com/J33van-A](https://github.com/J33van-A)
-
-- 💬 Ask me about **Obsidian**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
